@@ -57,3 +57,34 @@ The report contains **4 pages**.
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone this repository
+2. Open `GYM_DASHBOARD.pbix` in **Power BI Desktop**
+3. Use the slicers (At Risk Flag, Churn, Gender, Membership Type) to explore the dashboard
+
+---
+
+## 💡 Key Insights
+
+- **Headline numbers:** **150** total members, **Rs1.49M** total revenue, **14** avg visits/month, **105** members flagged at risk, and a **26%** churn rate.
+- **Churn breakdown:** 74% (111) of members are retained (No churn) vs. 26% (39) churned.
+- **Plan performance:** Monthly members churn the most at **29%**, followed by Quarterly (26%) and Yearly (18%) — longer commitments retain better.
+- **Exercise performance:** Pull-Ups burn the most calories on average (**515.33**), followed by Bench Press (512.60).
+- **Age group engagement:** The 30–39 age group is the most active, averaging **630** visits/month collectively, ahead of 20–29 (554).
+- **Risk concentration:** 70% of members (105 of 150) are currently flagged at risk — a strong signal for a targeted retention campaign.
+
+---
+
+## 👤 Author
+
+**Hammad**
+
+- LinkedIn: [linkedin.com/in/hammad-ali-baig](https://www.linkedin.com/in/hammad-ali-baig)
+- GitHub: [github.com/HammadAliBaig-Analytics](https://github.com/HammadAliBaig-Analytics)
+
+Feedback and suggestions are welcome!
